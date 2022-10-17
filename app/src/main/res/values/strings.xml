@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectNav</string>
+    <string name="halo_user">Halo Agnes Shandy</string>
+    <string name="lihat_transaksi">Lihat Transaksi</string>
+    <string name="kirim_uang">Kirim Uang</string>
+    <string name="cek_saldo">Cek Saldo</string>
+
+    <string name="settings">Pengaturan</string>
+    <string name="home">Beranda</string>
+    <string name="balance">Rp 100.000.000</string>
+
+</resources>
